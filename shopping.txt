@@ -1,0 +1,2 @@
+milk 12
+chocolate 15
